@@ -36,7 +36,7 @@ A smart cooling system that automatically adjusts fan speed based on ambient tem
 
 https://www.tinkercad.com/things/4YS2bE0bvzC-grand-wluff-juttuli
 
-## Circuit
+## Circuit Diagram
 
 ![image alt](https://github.com/Aditya-Kushwahaa/smart-temperature-controlled-fan-arduino/blob/f92ac95c6e7405d105e6d1480a4750cf3d51e334/circuit.png)
 
